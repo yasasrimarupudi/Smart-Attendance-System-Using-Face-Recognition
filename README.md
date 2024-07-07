@@ -20,6 +20,7 @@ each person in an Excel file and generates a report
 PROPOSED SYSTEM
 
 Dataset Creation
+
 Face Detection
 
 Face detection algorithms work by
@@ -30,6 +31,7 @@ accurately detecting faces, systems
 can perform subsequent tasks like
 facial recognition, emotion analysis, and
 age
+
 Face Recognition
 
 Prepare Training Data: Collect student
